@@ -1,0 +1,103 @@
+body.modal-open {
+  height: 100vh !important;
+  overflow-y: hidden !important;
+}
+.mobilemenubtn {
+  display: none;
+}
+.mobilemenubtnlog {
+  display: none;
+}
+div.dropdown-menu.cartdrop.show {
+  margin-top: 11px;
+  max-width: 300px;
+}
+span.notnum {
+  margin-top: 0.1px !important;
+}
+.inner-addon .fe {
+  position: absolute;
+  padding: 10px;
+  pointer-events: all !important;
+}
+.nav-unread.badge {
+  top: 5px !important;
+  width: 50% !important;
+  height: 40% !important;
+  padding-top: 5px !important;
+  left: 23px !important;
+  right: 0;
+  font-weight: 600;
+}
+@media screen and (max-width: 900px) {
+  div.card.appcv {
+    width: 100% !important;
+  }
+  .nav-unread.badge {
+    top: 4px !important;
+    width: 68% !important;
+    height: 55% !important;
+    padding-top: 5px !important;
+    font-weight: 600;
+  }
+  .mobilemenubtn {
+    display: block;
+    margin-top: 16px !important;
+  }
+  .mobilemenubtnlog {
+    display: block;
+    margin-top: 16px !important;
+  }
+  .lay-outstyle {
+    display: block;
+  }
+  .dview {
+    display: none !important;
+  }
+  .carticon {
+    margin-top: 11px !important;
+  }
+  span.notnum {
+    margin-top: 0.1px !important;
+  }
+  div.dropdown-menu.cartdrop.show {
+    margin-top: 5px;
+    max-width: 220px;
+  }
+  div.dropdown-menu.profiledrop.show {
+    margin-top: 5px;
+    max-width: 220px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .mobilemenubtn {
+    margin-right: 70px !important;
+  }
+  .mobilemenubtnlog {
+    margin-right: 40px !important;
+  }
+}
+@media screen and (max-width: 320px) {
+  .mobilemenubtn {
+    margin-right: 50px !important;
+  }
+  .mobilemenubtnlog {
+    margin-right: 10px !important;
+  }
+}
+@media screen and (min-width: 600px) and (max-width: 900px) {
+  .mobilemenubtn {
+    margin-right: 460px !important;
+  }
+  .mobilemenubtnlog {
+    margin-right: 400px !important;
+  }
+}
+@media screen and (min-width: 900px) and (max-width: 1000px) {
+  .mobilemenubtn {
+    display: none !important;
+  }
+  .header-brand .header-brand-img.main-logo {
+    display: none !important;
+  }
+}

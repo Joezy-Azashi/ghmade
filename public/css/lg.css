@@ -1,0 +1,23 @@
+.container {
+  margin: 0 auto;
+  margin-top: 70px;
+  width: 30%;
+  background: #ffffff;
+  padding: 25px;
+}
+.submitbutton {
+  background: #3964fc;
+  border: #3964fc;
+  border-radius: 10px;
+}
+:hover .submitbutton {
+  background: #3964fc;
+  border: #3964fc;
+}
+.cinput {
+  border-radius: 10px;
+}
+.input-group-addon:last-child {
+  background-color: #ffffff;
+  border-radius: 0px 10px 10px 0px;
+}

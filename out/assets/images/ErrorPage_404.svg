@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.868" cy="-0.924" r="3.528" gradientTransform="matrix(-0.025, 1, -0.477, -0.012, 0.739, -1.113)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1b98e0"/>
+      <stop offset="1" stop-color="#006494"/>
+    </radialGradient>
+    <clipPath id="clip-Error_Page_404">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Error_Page_404" data-name="Error Page_404" clip-path="url(#clip-Error_Page_404)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g id="image">
+      <rect id="Background_Image" data-name="Background Image" width="1920" height="1076" fill="url(#radial-gradient)"/>
+      <g id="Group_61" data-name="Group 61" transform="translate(0 -81.55)">
+        <path id="Path_154" data-name="Path 154" d="M-23010.332-22413.332s72.387,133.492,288.395,124.68S-22442.02-22151-22442.02-22151" transform="translate(24047 23000)" fill="none" stroke="#f7f7f7" stroke-width="10"/>
+        <g id="Moon" transform="matrix(0.454, -0.891, 0.891, 0.454, -27.732, 1097.391)">
+          <g id="Group_55" data-name="Group 55">
+            <circle id="Ellipse_33" data-name="Ellipse 33" cx="150" cy="150" r="150" transform="translate(787 461)" fill="#818aa9"/>
+            <circle id="Ellipse_34" data-name="Ellipse 34" cx="23.5" cy="23.5" r="23.5" transform="translate(880 550)" fill="#fff"/>
+            <circle id="Ellipse_35" data-name="Ellipse 35" cx="11.5" cy="11.5" r="11.5" transform="translate(868 676)" fill="#fff"/>
+            <circle id="Ellipse_36" data-name="Ellipse 36" cx="36" cy="36" r="36" transform="translate(983 597)" fill="#fff"/>
+            <circle id="Ellipse_37" data-name="Ellipse 37" cx="11.5" cy="11.5" r="11.5" transform="translate(937 611)" fill="#fff"/>
+            <circle id="Ellipse_38" data-name="Ellipse 38" cx="11.5" cy="11.5" r="11.5" transform="translate(937 492)" fill="#fff"/>
+          </g>
+          <g id="Group_56" data-name="Group 56">
+            <ellipse id="Ellipse_33-2" data-name="Ellipse 33" cx="149" cy="141.5" rx="149" ry="141.5" transform="translate(787 460)" fill="#c0c4d4"/>
+            <circle id="Ellipse_34-2" data-name="Ellipse 34" cx="23.5" cy="23.5" r="23.5" transform="translate(880 541)" fill="#fff"/>
+            <circle id="Ellipse_35-2" data-name="Ellipse 35" cx="11.5" cy="11.5" r="11.5" transform="translate(868 657)" fill="#fff"/>
+            <circle id="Ellipse_36-2" data-name="Ellipse 36" cx="36" cy="36" r="36" transform="translate(983 582)" fill="#fff"/>
+            <circle id="Ellipse_37-2" data-name="Ellipse 37" cx="11.5" cy="11.5" r="11.5" transform="translate(937 597)" fill="#fff"/>
+            <circle id="Ellipse_38-2" data-name="Ellipse 38" cx="11.5" cy="11.5" r="11.5" transform="translate(937 492)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="Plug">
+          <path id="Rectangle_72" data-name="Rectangle 72" d="M0,0H25A25,25,0,0,1,50,25v0A25,25,0,0,1,25,50H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="matrix(-0.391, -0.921, 0.921, -0.391, 1598.756, 896.781)" fill="#fff"/>
+          <path id="Rectangle_73" data-name="Rectangle 73" d="M0,0H44.5A5.5,5.5,0,0,1,50,5.5v0A5.5,5.5,0,0,1,44.5,11H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="matrix(0.391, 0.921, -0.921, 0.391, 1607.344, 868.459)" fill="#fff"/>
+          <path id="Rectangle_74" data-name="Rectangle 74" d="M0,0H44.5A5.5,5.5,0,0,1,50,5.5v0A5.5,5.5,0,0,1,44.5,11H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="matrix(0.391, 0.921, -0.921, 0.391, 1630.344, 859.459)" fill="#fff"/>
+        </g>
+        <g id="Stars">
+          <circle id="Ellipse_39" data-name="Ellipse 39" cx="6" cy="6" r="6" transform="translate(205 297)" fill="#fff"/>
+          <circle id="Ellipse_40" data-name="Ellipse 40" cx="2.5" cy="2.5" r="2.5" transform="translate(404 998)" fill="#fff"/>
+          <circle id="Ellipse_41" data-name="Ellipse 41" cx="6" cy="6" r="6" transform="translate(656 798)" fill="#fff"/>
+          <circle id="Ellipse_42" data-name="Ellipse 42" cx="6" cy="6" r="6" transform="translate(473 671)" fill="#fff"/>
+          <circle id="Ellipse_43" data-name="Ellipse 43" cx="6" cy="6" r="6" transform="translate(806 304)" fill="#fff"/>
+          <circle id="Ellipse_48" data-name="Ellipse 48" cx="2" cy="2" r="2" transform="translate(549 412)" fill="#fff"/>
+          <circle id="Ellipse_44" data-name="Ellipse 44" cx="6" cy="6" r="6" transform="translate(1349 257)" fill="#fff"/>
+          <circle id="Ellipse_47" data-name="Ellipse 47" cx="2.5" cy="2.5" r="2.5" transform="translate(1451 509)" fill="#fff"/>
+          <circle id="Ellipse_45" data-name="Ellipse 45" cx="6" cy="6" r="6" transform="translate(1659 528)" fill="#fff"/>
+          <circle id="Ellipse_46" data-name="Ellipse 46" cx="6" cy="6" r="6" transform="translate(1382 952)" fill="#fff"/>
+        </g>
+        <g id="Group_57" data-name="Group 57" transform="matrix(0.588, 0.809, -0.809, 0.588, 2098.215, -643.801)">
+          <path id="Polygon_1" data-name="Polygon 1" d="M3.5,0,7,124H0Z" transform="translate(481 834)" fill="#fff"/>
+          <circle id="Ellipse_49" data-name="Ellipse 49" cx="3.5" cy="3.5" r="3.5" transform="translate(481 955)" fill="#fff"/>
+        </g>
+        <g id="Group_60" data-name="Group 60" transform="matrix(0.588, 0.809, -0.809, 0.588, 885.717, -556.008)" opacity="0.34">
+          <path id="Polygon_1-2" data-name="Polygon 1" d="M3.5,0,7,80.121H0Z" transform="translate(481 834)" fill="#fff"/>
+          <circle id="Ellipse_49-2" data-name="Ellipse 49" cx="3.5" cy="3.5" r="3.5" transform="translate(481 911.121)" fill="#fff"/>
+        </g>
+        <g id="Group_58" data-name="Group 58" transform="matrix(0.588, 0.809, -0.809, 0.588, 1785.803, -269.361)">
+          <path id="Polygon_1-3" data-name="Polygon 1" d="M3.5,0,7,51.8H0Z" transform="translate(481 834)" fill="#fff"/>
+          <circle id="Ellipse_49-3" data-name="Ellipse 49" cx="3.5" cy="3.5" r="3.5" transform="translate(481 882.799)" fill="#fff"/>
+        </g>
+        <g id="Group_59" data-name="Group 59" transform="matrix(0.588, 0.809, -0.809, 0.588, 727.215, -104.801)" opacity="0.48">
+          <path id="Polygon_1-4" data-name="Polygon 1" d="M3.5,0,7,124H0Z" transform="translate(481 834)" fill="#fff"/>
+          <circle id="Ellipse_49-4" data-name="Ellipse 49" cx="3.5" cy="3.5" r="3.5" transform="translate(481 955)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

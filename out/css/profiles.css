@@ -1,0 +1,131 @@
+body {
+  background-color: lavender;
+}
+.loginCard {
+  margin: auto;
+  margin-top: 40px;
+
+  width: 50%;
+  padding-left: 1%;
+  padding-right: 1%;
+  align-content: center;
+}
+.page-tittle {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 120px;
+   font-family: "Open Sans", sans-serif;
+}
+.container {
+  background-color: lavender;
+}
+.login-header {
+   font-family: "Open Sans", sans-serif;
+  text-align: center;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.text-button label {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  color: rgb(46, 53, 59);
+}
+
+.text-button input {
+  font-family: "Open Sans", sans-serif;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.text-button button {
+  font-family: "Open Sans", sans-serif;
+  border-radius: 10px;
+}
+.foot-note {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  margin-top: 20px;
+}
+.form-control {
+  width: 90%;
+  height: 40px;
+  border-radius: 10px;
+  margin-top: 1px;
+  font-family: "Open Sans", sans-serif;
+  background-color: #ffffff;
+}
+
+.form-control.required .control-label:after {
+  content: "*";
+  color: red;
+}
+.exampleInput {
+  margin-top: 5px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+}
+.btnsave {
+  width: 200px;
+  font-family: "Open Sans", sans-serif;
+  border-radius: 15px;
+}
+.btncancel {
+  background-color: #818aa9;
+  width: 200px;
+  border-color: #818aa9;
+  font-family: "Open Sans", sans-serif;
+  border-radius: 15px;
+}
+
+.input-group-date {
+  width: 100%;
+  height: 40px;
+  border-radius: 10px;
+  margin-top: 1px;
+  font-family: "Open Sans", sans-serif;
+}
+.profileContainer {
+  align-content: center;
+}
+.search-box {
+  float: right;
+}
+
+.table tbody tr img {
+  width: 40px;
+  height: 40px;
+  border-style: hidden;
+}
+.icon-image {
+  width: 5px;
+  height: 5px;
+}
+.btn-secondary {
+  background: transparent !important;
+  border-color: white;
+  color: black;
+}
+
+.dropdown .btn-secondary h6 {
+  color: black;
+}
+
+.btn-secondary img:hover {
+  color: black;
+}
+.dropdown-item {
+  text-align: wrap-content;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.btnedit {
+  width: 100%;
+  font-family: "Open Sans", sans-serif;
+  border-radius: 15px;
+}
+.required {
+  color: red;
+}

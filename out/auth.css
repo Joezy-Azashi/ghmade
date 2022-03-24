@@ -1,0 +1,46 @@
+.parent {
+  position: relative;
+  background: #c0c4d4;
+  margin: 0;
+  font-family: Open Sans !important;
+  font-size: 13px;
+}
+
+.logo {
+  position: relative;
+  top: 20px;
+  left: 70px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 25%;
+  background: #ffffff;
+  padding: 25px;
+}
+.submitbutton {
+  background: #3964fc;
+  border: #3964fc;
+  border-radius: 10px;
+}
+:hover .submitbutton {
+  background: #3964fc;
+  border: #3964fc;
+}
+.cinput {
+  border-radius: 10px;
+}
+.input-group-addon:last-child {
+  background-color: #ffffff;
+  border-radius: 0px 10px 10px 0px;
+}
+
+i {
+  position: absolute;
+  top: 62%;
+  right: 7%;
+}
+i:hover {
+  color: #00fcb6;
+  cursor: pointer;
+}

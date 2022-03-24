@@ -1,0 +1,22 @@
+.parent {
+  position: relative;
+  background: #c0c4d4;
+  margin: 0;
+  font-family: Open Sans !important;
+  font-size: 13px;
+}
+
+.navbar {
+  position: absolute;
+  background: white;
+  height: 60pt;
+  width: 100%;
+}
+
+.logo {
+  position: relative;
+  top: 20px;
+  left: 70px;
+}
+
+

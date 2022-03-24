@@ -1,0 +1,40 @@
+.parent {
+  position: relative;
+  background: #c0c4d4;
+  margin: 0;
+  font-family: Open Sans;
+  font-size: 13px;
+}
+
+.navbar {
+  position: absolute;
+  background: white;
+  height: 60pt;
+  width: 100%;
+}
+
+.logo {
+  position: relative;
+  top: 20px;
+  left: 70px;
+}
+
+.wrapper {
+  font-family: "open sans", sans-serif;
+  background-color: #c0c4d4;
+  padding: 100px 100px 12px 50px;
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+#blogsearch {
+  border: none !important;
+  outline: none !important;
+  outline-style: none !important;
+  box-shadow: none !important;
+}

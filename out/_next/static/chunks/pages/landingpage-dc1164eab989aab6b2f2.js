@@ -1,0 +1,1 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[60],{HTGJ:function(n,t,_){"use strict";_.r(t);var e=_("q1tI"),u=_.n(e),i=_("y4gq"),o=u.a.createElement;t.default=function(){return o(i.a,null)}},ZHhL:function(n,t,_){(window.__NEXT_P=window.__NEXT_P||[]).push(["/landingpage",function(){return _("HTGJ")}])}},[["ZHhL",0,1,2,3]]]);
